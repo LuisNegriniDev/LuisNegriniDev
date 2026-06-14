@@ -1,6 +1,8 @@
 ## Luis Gustavo
 
-💻 Computer Engineering Student
+---
+
+I'm a Computer Engineering student currently living in Brazil.
 
 📍 Brazil
 <br>

@@ -1,12 +1,12 @@
 # Luis Gustavo
 
----
+
 
 I'm a Computer Engineering student currently living in Brazil.
 
 ## About me
 
----
+
 
 I'm passionate about technology and software development.
 
@@ -14,7 +14,7 @@ Passionate about technology and software development, constantly learning and bu
 
 ## I code with
 
----
+
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
